@@ -1,5 +1,5 @@
 ##
-🔴Um sistema simples feito com react e next que exibe na tela um saudação de acordo com o horário atual;🔴
+🔴 Um sistema simples feito com react e next que exibe na tela um saudação de acordo com o horário atual;
 ##
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
